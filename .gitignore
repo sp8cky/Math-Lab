@@ -1,4 +1,17 @@
-# Rust targets in all directories
+# Rust target folders
 **/target/
+
+# Backup- und temporäre Dateien
 **/*.rs.bk
 **/*.rs~
+*.log
+
+# Editor-Dateien
+.vscode/
+.idea/
+*.iml
+
+# OS-spezifisch
+.DS_Store
+Thumbs.db
+desktop.ini
