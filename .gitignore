@@ -1,0 +1,4 @@
+# Rust targets in all directories
+**/target/
+**/*.rs.bk
+**/*.rs~
